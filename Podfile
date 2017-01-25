@@ -6,6 +6,7 @@ target 'SoketIODemo' do
   use_frameworks!
 
   pod 'Socket.IO-Client-Swift', '~> 8.2.0'
+  pod 'BRYXBanner'
 
   # Pods for SoketIODemo
 

@@ -1,12 +1,15 @@
 PODS:
+  - BRYXBanner (0.7.1)
   - Socket.IO-Client-Swift (8.2.0)
 
 DEPENDENCIES:
+  - BRYXBanner
   - Socket.IO-Client-Swift (~> 8.2.0)
 
 SPEC CHECKSUMS:
+  BRYXBanner: 34eabf9c6c009f187948ca78a4f3bba3767d0f04
   Socket.IO-Client-Swift: 900cf511777045c80d1ce1f11f71261e87765dd1
 
-PODFILE CHECKSUM: fddbf74bc3cde7ad8bbe0fff9eeabd1a94d7211e
+PODFILE CHECKSUM: 19a2cda448580787fb4974412e51492bcdb7483e
 
 COCOAPODS: 1.1.1
