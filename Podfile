@@ -7,6 +7,7 @@ target 'SoketIODemo' do
 
   pod 'Socket.IO-Client-Swift', '~> 8.2.0'
   pod 'BRYXBanner'
+  pod 'Alamofire'
 
   # Pods for SoketIODemo
 
